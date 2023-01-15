@@ -1,5 +1,6 @@
 {
   "name": "test-deploy",
+  "homepage": "https://shindonghyeok2709.github.io/deploy_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
